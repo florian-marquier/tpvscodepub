@@ -9,8 +9,8 @@ int main()
 
     cout <<"Le chiffre pi a comme valeur : "<<pi<<"."<<endl;
     cout <<"La lampe est : "<<lampe<<" (0 pour eteindre et 1 pour allumee)."<<endl;
-    cout<<"La lettre à afficher est : "<<lettre<<"."<<endl;
-    cout<<"La chaine de caractères à afficher est : "<<chaine<<"."<<endl;
+    cout<<"La lettre a afficher est : "<<lettre<<"."<<endl;
+    cout<<"La chaine de caracteres a afficher est : "<<chaine<<"."<<endl;
 
     return 0;
 }
