@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-    double counst nombres(16);
+    double const nombres(16);
     double resultat;
     resultat=sqrt(nombres);
     cout<<"La racine carre de "<< nombres <<" est "<<resultat<<endl;
