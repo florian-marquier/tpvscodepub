@@ -10,8 +10,8 @@ int main()
     tableau.push_back(8);
     tableau.push_back(7);
     tableau.push_back(6);
-    tableau.push_back();
-    tableau.push_back();
+    tableau.pop_back();
+    tableau.pop_back();
     for (i=0; i<6; i++)
     {
         cout<<tableau[i]<<endl;
